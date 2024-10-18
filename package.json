@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "pkg": "github:yao-pkg/pkg#master",
-    "resedit": "^1.6.0"
+    "resedit": "1.6.0"
   }
 }
