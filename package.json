@@ -14,11 +14,11 @@
     "binary"
   ],
   "devDependencies": {
-    "@angablue/eslint-config": "^1.3.4",
+    "@angablue/eslint-config": "1.3.4",
     "@types/node": "^18.11.3",
-    "eslint": "^8.26.0",
-    "prettier": "^2.7.1",
-    "typescript": "^4.8.4"
+    "eslint": "8.26.0",
+    "prettier": "2.7.1",
+    "typescript": "4.8.4"
   },
   "dependencies": {
     "pkg": "github:yao-pkg/pkg#master",
