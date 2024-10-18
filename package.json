@@ -7,15 +7,25 @@
     "build": "tsc",
     "lint": "eslint . --ext js,jsx,ts,tsx --fix"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngaBlue/exe.git"
+  },
   "keywords": [
     "exe",
     "windows",
     "build",
     "binary"
   ],
+  "author": "AngaBlue <contact@anga.blue>",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AngaBlue/exe/issues"
+  },
+  "homepage": "https://github.com/AngaBlue/exe#readme",
   "devDependencies": {
     "@angablue/eslint-config": "1.3.4",
-    "@types/node": "^18.11.3",
+    "@types/node": "18.11.3",
     "eslint": "8.26.0",
     "prettier": "2.7.1",
     "typescript": "4.8.4"
